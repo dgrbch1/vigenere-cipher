@@ -6,15 +6,11 @@ This project is about the **Vigenère cipher**, a classic encryption algorithm. 
 encrypts plaintext into ciphertext and then decripts the cypher text right back into plaintext
 
 
-### 1. **README.md**
-This file explains what the project does, how to run it, and how everything is organized.
-
-### 2. **src/**
+ ## Source 
 This folder has the main program file:
-- `cipher.py`: The Python code that handles encryption and decryption.
+`cipher.py`: The Python code that handles encryption and decryption.
 
 ### 3. **tests/**
 This folder has a test file:
-- `test_vigenere_cipher.py`: This file tests my program to make sure it works correctly.
+ `test_vigenere_cipher.py`: This file tests my program to make sure it works correctly.
 
----
