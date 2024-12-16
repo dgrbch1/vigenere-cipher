@@ -19,7 +19,7 @@ This file explains what the project does, how to run it, and how everything is o
 
 ### 2. **src/**
 This folder has the main program file:
-- cipher.py`: The Python code that handles encryption and decryption.
+- `cipher.py`: The Python code that handles encryption and decryption.
 
 ### 3. **tests/**
 This folder has a test file:
