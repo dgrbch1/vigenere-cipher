@@ -3,16 +3,8 @@ Math Project
 
 ## Overview
 This project is about the **Vigenère cipher**, a classic encryption algorithm. It takes a word (key) and uses it to encrypt and decrypt text. I wrote a Python program that:
+encrypts plaintext into ciphertext and then decripts the cypher text right back into plaintext
 
-- Encrypts plaintext into ciphertext.
-
-- Decrypts ciphertext back into plaintext.
-
-- Lets you test how the cipher works.
-
-
-
-## Files in This Project
 
 ### 1. **README.md**
 This file explains what the project does, how to run it, and how everything is organized.
